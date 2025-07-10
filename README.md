@@ -3,7 +3,7 @@
 **Nama Mahasiswa**: Afiq Fawwaz Haidar  
 **NRP**: 5025211246  
 **Judul TA**: Rekonstruksi Forensik Digital dengan Finite State Machine  
-**Dosen Pembimbing**: Hudan Studiawan, S.Kom., M.Kom.,Ph.D.
+**Dosen Pembimbing**: Hudan Studiawan, S.Kom., M.Kom.,Ph.D.    
 **Dosen Ko-pembimbing**: Baskoro Adi Pratomo, S.Kom., M.Kom., Ph.D.
 
 ---
